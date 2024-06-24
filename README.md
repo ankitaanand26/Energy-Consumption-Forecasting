@@ -4,4 +4,6 @@ Daily data for Energy Met and Daily Maximum Load at the national level taken fro
 
 Data source: https://report.grid-india.in/psp_report.php
 
-Built machine learning models for time series forecasting and a simple static webpage using HTML/CSS and JavaScript implementing one of the models.
+Built machine learning models for time series forecasting (SARIMA, Extreme Gradient Boosting and FB Prophet).
+
+Created a simple static webpage using HTML/CSS and JavaScript, deployed using Flask, implementing one of the models.
